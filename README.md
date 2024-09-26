@@ -9,7 +9,8 @@
 <li> Introdução à linguagem Python 3 - Utilização dos tipos de dados, expressões algébricas e booleanas.</li>
 
 <li> Introdução à linguagem Python 3 - Arrays, Strings e Listas
-<li> Introdução à linguagem Python 3 - Manipulação de Strings e Listas</li>
+
+<ol><li> Introdução à linguagem Python 3 - Manipulação de Strings e Listas</li></ol>
 </li>
 
 <li> Introdução à linguagem Python 3 - Funções E/S print() e input()</li>
